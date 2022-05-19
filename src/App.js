@@ -2,7 +2,7 @@ import React from "react";
 import { HashRouter, Route, Routes } from "react-router-dom";
 import About from "./routes/About";
 import Home from "./routes/Home";
-import Detail from "./routes/Detail";
+import Detail from "./routes/Detail2";
 import Navigation from "./components/Navigation";
 import "./App.css";
 
